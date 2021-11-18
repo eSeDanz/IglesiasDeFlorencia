@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #e3e3c8;
+}
+
+h1 {
+	color: #0000a0;
+	text-align: right;
+	font-size: 300%;
+}
+
+h2 {
+	display: block;
+	clear: both;
+    background-color: #6c6c00;
+    color: white;
+}
+
+img.izquierda {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+p.centrado {
+	text-align: center;
+}
+
+img.derecha {
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+p.footer {
+	clear: both;
+	font-size: 110%;
+	display: block;
+}
+
+p {
+	font-size: 180%;
+}
